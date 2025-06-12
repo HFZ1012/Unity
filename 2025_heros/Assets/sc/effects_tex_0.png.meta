@@ -1,0 +1,5127 @@
+fileFormatVersion: 2
+guid: 2764178749dde5644b3fe220836c8f18
+timeCreated: 1464960272
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: effects_tex_0_0
+    21300002: effects_tex_0_1
+    21300004: effects_tex_0_2
+    21300006: effects_tex_0_3
+    21300008: effects_tex_0_4
+    21300010: effects_tex_0_5
+    21300012: effects_tex_0_6
+    21300014: effects_tex_0_7
+    21300016: effects_tex_0_8
+    21300018: effects_tex_0_9
+    21300020: effects_tex_0_10
+    21300022: effects_tex_0_11
+    21300024: effects_tex_0_12
+    21300026: effects_tex_0_13
+    21300028: effects_tex_0_14
+    21300030: effects_tex_0_15
+    21300032: effects_tex_0_16
+    21300034: effects_tex_0_17
+    21300036: effects_tex_0_18
+    21300038: effects_tex_0_19
+    21300040: effects_tex_0_20
+    21300042: effects_tex_0_21
+    21300044: effects_tex_0_22
+    21300046: effects_tex_0_23
+    21300048: effects_tex_0_24
+    21300050: effects_tex_0_25
+    21300052: effects_tex_0_26
+    21300054: effects_tex_0_27
+    21300056: effects_tex_0_28
+    21300058: effects_tex_0_29
+    21300060: effects_tex_0_30
+    21300062: effects_tex_0_31
+    21300064: effects_tex_0_32
+    21300066: effects_tex_0_33
+    21300068: effects_tex_0_34
+    21300070: effects_tex_0_35
+    21300072: effects_tex_0_36
+    21300074: effects_tex_0_37
+    21300076: effects_tex_0_38
+    21300078: effects_tex_0_39
+    21300080: effects_tex_0_40
+    21300082: effects_tex_0_41
+    21300084: effects_tex_0_42
+    21300086: effects_tex_0_43
+    21300088: effects_tex_0_44
+    21300090: effects_tex_0_45
+    21300092: effects_tex_0_46
+    21300094: effects_tex_0_47
+    21300096: effects_tex_0_48
+    21300098: effects_tex_0_49
+    21300100: effects_tex_0_50
+    21300102: effects_tex_0_51
+    21300104: effects_tex_0_52
+    21300106: effects_tex_0_53
+    21300108: effects_tex_0_54
+    21300110: effects_tex_0_55
+    21300112: effects_tex_0_56
+    21300114: effects_tex_0_57
+    21300116: effects_tex_0_58
+    21300118: effects_tex_0_59
+    21300120: effects_tex_0_60
+    21300122: effects_tex_0_61
+    21300124: effects_tex_0_62
+    21300126: effects_tex_0_63
+    21300128: effects_tex_0_64
+    21300130: effects_tex_0_65
+    21300132: effects_tex_0_66
+    21300134: effects_tex_0_67
+    21300136: effects_tex_0_68
+    21300138: effects_tex_0_69
+    21300140: effects_tex_0_70
+    21300142: effects_tex_0_71
+    21300144: effects_tex_0_72
+    21300146: effects_tex_0_73
+    21300148: effects_tex_0_74
+    21300150: effects_tex_0_75
+    21300152: effects_tex_0_76
+    21300154: effects_tex_0_77
+    21300156: effects_tex_0_78
+    21300158: effects_tex_0_79
+    21300160: effects_tex_0_80
+    21300162: effects_tex_0_81
+    21300164: effects_tex_0_82
+    21300166: effects_tex_0_83
+    21300168: effects_tex_0_84
+    21300170: effects_tex_0_85
+    21300172: effects_tex_0_86
+    21300174: effects_tex_0_87
+    21300176: effects_tex_0_88
+    21300178: effects_tex_0_89
+    21300180: effects_tex_0_90
+    21300182: effects_tex_0_91
+    21300184: effects_tex_0_92
+    21300186: effects_tex_0_93
+    21300188: effects_tex_0_94
+    21300190: effects_tex_0_95
+    21300192: effects_tex_0_96
+    21300194: effects_tex_0_97
+    21300196: effects_tex_0_98
+    21300198: effects_tex_0_99
+    21300200: effects_tex_0_100
+    21300202: effects_tex_0_101
+    21300204: effects_tex_0_102
+    21300206: effects_tex_0_103
+    21300208: effects_tex_0_104
+    21300210: effects_tex_0_105
+    21300212: effects_tex_0_106
+    21300214: effects_tex_0_107
+    21300216: effects_tex_0_108
+    21300218: effects_tex_0_109
+    21300220: effects_tex_0_110
+    21300222: effects_tex_0_111
+    21300224: effects_tex_0_112
+    21300226: effects_tex_0_113
+    21300228: effects_tex_0_114
+    21300230: effects_tex_0_115
+    21300232: effects_tex_0_116
+    21300234: effects_tex_0_117
+    21300236: effects_tex_0_118
+    21300238: effects_tex_0_119
+    21300240: effects_tex_0_120
+    21300242: effects_tex_0_121
+    21300244: effects_tex_0_122
+    21300246: effects_tex_0_123
+    21300248: effects_tex_0_124
+    21300250: effects_tex_0_125
+    21300252: effects_tex_0_126
+    21300254: effects_tex_0_127
+    21300256: effects_tex_0_128
+    21300258: effects_tex_0_129
+    21300260: effects_tex_0_130
+    21300262: effects_tex_0_131
+    21300264: effects_tex_0_132
+    21300266: effects_tex_0_133
+    21300268: effects_tex_0_134
+    21300270: effects_tex_0_135
+    21300272: effects_tex_0_136
+    21300274: effects_tex_0_137
+    21300276: effects_tex_0_138
+    21300278: effects_tex_0_139
+    21300280: effects_tex_0_140
+    21300282: effects_tex_0_141
+    21300284: effects_tex_0_142
+    21300286: effects_tex_0_143
+    21300288: effects_tex_0_144
+    21300290: effects_tex_0_145
+    21300292: effects_tex_0_146
+    21300294: effects_tex_0_147
+    21300296: effects_tex_0_148
+    21300298: effects_tex_0_149
+    21300300: effects_tex_0_150
+    21300302: effects_tex_0_151
+    21300304: effects_tex_0_152
+    21300306: effects_tex_0_153
+    21300308: effects_tex_0_154
+    21300310: effects_tex_0_155
+    21300312: effects_tex_0_156
+    21300314: effects_tex_0_157
+    21300316: effects_tex_0_158
+    21300318: effects_tex_0_159
+    21300320: effects_tex_0_160
+    21300322: effects_tex_0_161
+    21300324: effects_tex_0_162
+    21300326: effects_tex_0_163
+    21300328: effects_tex_0_164
+    21300330: effects_tex_0_165
+    21300332: effects_tex_0_166
+    21300334: effects_tex_0_167
+    21300336: effects_tex_0_168
+    21300338: effects_tex_0_169
+    21300340: effects_tex_0_170
+    21300342: effects_tex_0_171
+    21300344: effects_tex_0_172
+    21300346: effects_tex_0_173
+    21300348: effects_tex_0_174
+    21300350: effects_tex_0_175
+    21300352: effects_tex_0_176
+    21300354: effects_tex_0_177
+    21300356: effects_tex_0_178
+    21300358: effects_tex_0_179
+    21300360: effects_tex_0_180
+    21300362: effects_tex_0_181
+    21300364: effects_tex_0_182
+    21300366: effects_tex_0_183
+    21300368: effects_tex_0_184
+    21300370: effects_tex_0_185
+    21300372: effects_tex_0_186
+    21300374: effects_tex_0_187
+    21300376: effects_tex_0_188
+    21300378: effects_tex_0_189
+    21300380: effects_tex_0_190
+    21300382: effects_tex_0_191
+    21300384: effects_tex_0_192
+    21300386: effects_tex_0_193
+    21300388: effects_tex_0_194
+    21300390: effects_tex_0_195
+    21300392: effects_tex_0_196
+    21300394: effects_tex_0_197
+    21300396: effects_tex_0_198
+    21300398: effects_tex_0_199
+    21300400: effects_tex_0_200
+    21300402: effects_tex_0_201
+    21300404: effects_tex_0_202
+    21300406: effects_tex_0_203
+    21300408: effects_tex_0_204
+    21300410: effects_tex_0_205
+    21300412: effects_tex_0_206
+    21300414: effects_tex_0_207
+    21300416: effects_tex_0_208
+    21300418: effects_tex_0_209
+    21300420: effects_tex_0_210
+    21300422: effects_tex_0_211
+    21300424: effects_tex_0_212
+    21300426: effects_tex_0_213
+    21300428: effects_tex_0_214
+    21300430: effects_tex_0_215
+    21300432: effects_tex_0_216
+    21300434: effects_tex_0_217
+    21300436: effects_tex_0_218
+    21300438: effects_tex_0_219
+    21300440: effects_tex_0_220
+    21300442: effects_tex_0_221
+    21300444: effects_tex_0_222
+    21300446: effects_tex_0_223
+    21300448: effects_tex_0_224
+    21300450: effects_tex_0_225
+    21300452: effects_tex_0_226
+    21300454: effects_tex_0_227
+    21300456: effects_tex_0_228
+    21300458: effects_tex_0_229
+    21300460: effects_tex_0_230
+    21300462: effects_tex_0_231
+    21300464: effects_tex_0_232
+    21300466: effects_tex_0_233
+    21300468: effects_tex_0_234
+    21300470: effects_tex_0_235
+    21300472: effects_tex_0_236
+    21300474: effects_tex_0_237
+    21300476: effects_tex_0_238
+    21300478: effects_tex_0_239
+    21300480: effects_tex_0_240
+    21300482: effects_tex_0_241
+    21300484: effects_tex_0_242
+    21300486: effects_tex_0_243
+    21300488: effects_tex_0_244
+    21300490: effects_tex_0_245
+    21300492: effects_tex_0_246
+    21300494: effects_tex_0_247
+    21300496: effects_tex_0_248
+    21300498: effects_tex_0_249
+    21300500: effects_tex_0_250
+    21300502: effects_tex_0_251
+    21300504: effects_tex_0_252
+    21300506: effects_tex_0_253
+    21300508: effects_tex_0_254
+    21300510: effects_tex_0_255
+    21300512: effects_tex_0_256
+    21300514: effects_tex_0_257
+    21300516: effects_tex_0_258
+    21300518: effects_tex_0_259
+    21300520: effects_tex_0_260
+    21300522: effects_tex_0_261
+    21300524: effects_tex_0_262
+    21300526: effects_tex_0_263
+    21300528: effects_tex_0_264
+    21300530: effects_tex_0_265
+    21300532: effects_tex_0_266
+    21300534: effects_tex_0_267
+    21300536: effects_tex_0_268
+    21300538: effects_tex_0_269
+    21300540: effects_tex_0_270
+    21300542: effects_tex_0_271
+    21300544: effects_tex_0_272
+    21300546: effects_tex_0_273
+    21300548: effects_tex_0_274
+    21300550: effects_tex_0_275
+    21300552: effects_tex_0_276
+    21300554: effects_tex_0_277
+    21300556: effects_tex_0_278
+    21300558: effects_tex_0_279
+    21300560: effects_tex_0_280
+    21300562: effects_tex_0_281
+    21300564: effects_tex_0_282
+    21300566: effects_tex_0_283
+    21300568: effects_tex_0_284
+    21300570: effects_tex_0_285
+    21300572: effects_tex_0_286
+    21300574: effects_tex_0_287
+    21300576: effects_tex_0_288
+    21300578: effects_tex_0_289
+    21300580: effects_tex_0_290
+    21300582: effects_tex_0_291
+    21300584: effects_tex_0_292
+    21300586: effects_tex_0_293
+    21300588: effects_tex_0_294
+    21300590: effects_tex_0_295
+    21300592: effects_tex_0_296
+    21300594: effects_tex_0_297
+    21300596: effects_tex_0_298
+    21300598: effects_tex_0_299
+    21300600: effects_tex_0_300
+    21300602: effects_tex_0_301
+    21300604: effects_tex_0_302
+    21300606: effects_tex_0_303
+    21300608: effects_tex_0_304
+    21300610: effects_tex_0_305
+    21300612: effects_tex_0_306
+    21300614: effects_tex_0_307
+    21300616: effects_tex_0_308
+    21300618: effects_tex_0_309
+    21300620: effects_tex_0_310
+    21300622: effects_tex_0_311
+    21300624: effects_tex_0_312
+    21300626: effects_tex_0_313
+    21300628: effects_tex_0_314
+    21300630: effects_tex_0_315
+    21300632: effects_tex_0_316
+    21300634: effects_tex_0_317
+    21300636: effects_tex_0_318
+    21300638: effects_tex_0_319
+    21300640: effects_tex_0_320
+    21300642: effects_tex_0_321
+    21300644: effects_tex_0_322
+    21300646: effects_tex_0_323
+    21300648: effects_tex_0_324
+    21300650: effects_tex_0_325
+    21300652: effects_tex_0_326
+    21300654: effects_tex_0_327
+    21300656: effects_tex_0_328
+    21300658: effects_tex_0_329
+    21300660: effects_tex_0_330
+    21300662: effects_tex_0_331
+    21300664: effects_tex_0_332
+    21300666: effects_tex_0_333
+    21300668: effects_tex_0_334
+    21300670: effects_tex_0_335
+    21300672: effects_tex_0_336
+    21300674: effects_tex_0_337
+    21300676: effects_tex_0_338
+    21300678: effects_tex_0_339
+    21300680: effects_tex_0_340
+    21300682: effects_tex_0_341
+    21300684: effects_tex_0_342
+    21300686: effects_tex_0_343
+    21300688: effects_tex_0_344
+    21300690: effects_tex_0_345
+    21300692: effects_tex_0_346
+    21300694: effects_tex_0_347
+    21300696: effects_tex_0_348
+    21300698: effects_tex_0_349
+    21300700: effects_tex_0_350
+    21300702: effects_tex_0_351
+    21300704: effects_tex_0_352
+    21300706: effects_tex_0_353
+    21300708: effects_tex_0_354
+    21300710: effects_tex_0_355
+    21300712: effects_tex_0_356
+    21300714: effects_tex_0_357
+    21300716: effects_tex_0_358
+    21300718: effects_tex_0_359
+    21300720: effects_tex_0_360
+    21300722: effects_tex_0_361
+    21300724: effects_tex_0_362
+    21300726: effects_tex_0_363
+    21300728: effects_tex_0_364
+    21300730: effects_tex_0_365
+    21300732: effects_tex_0_366
+    21300734: effects_tex_0_367
+    21300736: effects_tex_0_368
+    21300738: effects_tex_0_369
+    21300740: effects_tex_0_370
+    21300742: effects_tex_0_371
+    21300744: effects_tex_0_372
+    21300746: effects_tex_0_373
+    21300748: effects_tex_0_374
+    21300750: effects_tex_0_375
+    21300752: effects_tex_0_376
+    21300754: effects_tex_0_377
+    21300756: effects_tex_0_378
+    21300758: effects_tex_0_379
+    21300760: effects_tex_0_380
+    21300762: effects_tex_0_381
+    21300764: effects_tex_0_382
+    21300766: effects_tex_0_383
+    21300768: effects_tex_0_384
+    21300770: effects_tex_0_385
+    21300772: effects_tex_0_386
+    21300774: effects_tex_0_387
+    21300776: effects_tex_0_388
+    21300778: effects_tex_0_389
+    21300780: effects_tex_0_390
+    21300782: effects_tex_0_391
+    21300784: effects_tex_0_392
+    21300786: effects_tex_0_393
+    21300788: effects_tex_0_394
+    21300790: effects_tex_0_395
+    21300792: effects_tex_0_396
+    21300794: effects_tex_0_397
+    21300796: effects_tex_0_398
+    21300798: effects_tex_0_399
+    21300800: effects_tex_0_400
+    21300802: effects_tex_0_401
+    21300804: effects_tex_0_402
+    21300806: effects_tex_0_403
+    21300808: effects_tex_0_404
+    21300810: effects_tex_0_405
+    21300812: effects_tex_0_406
+    21300814: effects_tex_0_407
+    21300816: effects_tex_0_408
+    21300818: effects_tex_0_409
+    21300820: effects_tex_0_410
+    21300822: effects_tex_0_411
+    21300824: effects_tex_0_412
+    21300826: effects_tex_0_413
+    21300828: effects_tex_0_414
+    21300830: effects_tex_0_415
+    21300832: effects_tex_0_416
+    21300834: effects_tex_0_417
+    21300836: effects_tex_0_418
+    21300838: effects_tex_0_419
+    21300840: effects_tex_0_420
+    21300842: effects_tex_0_421
+    21300844: effects_tex_0_422
+    21300846: effects_tex_0_423
+    21300848: effects_tex_0_424
+    21300850: effects_tex_0_425
+    21300852: effects_tex_0_426
+    21300854: effects_tex_0_427
+    21300856: effects_tex_0_428
+    21300858: effects_tex_0_429
+    21300860: effects_tex_0_430
+    21300862: effects_tex_0_431
+    21300864: effects_tex_0_432
+    21300866: effects_tex_0_433
+    21300868: effects_tex_0_434
+    21300870: effects_tex_0_435
+    21300872: effects_tex_0_436
+    21300874: effects_tex_0_437
+    21300876: effects_tex_0_438
+    21300878: effects_tex_0_439
+    21300880: effects_tex_0_440
+    21300882: effects_tex_0_441
+    21300884: effects_tex_0_442
+    21300886: effects_tex_0_443
+    21300888: effects_tex_0_444
+    21300890: effects_tex_0_445
+    21300892: effects_tex_0_446
+    21300894: effects_tex_0_447
+    21300896: effects_tex_0_448
+    21300898: effects_tex_0_449
+    21300900: effects_tex_0_450
+    21300902: effects_tex_0_451
+    21300904: effects_tex_0_452
+    21300906: effects_tex_0_453
+    21300908: effects_tex_0_454
+    21300910: effects_tex_0_455
+    21300912: effects_tex_0_456
+    21300914: effects_tex_0_457
+    21300916: effects_tex_0_458
+    21300918: effects_tex_0_459
+    21300920: effects_tex_0_460
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: effects_tex_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1677
+        width: 341
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1965
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1991
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1732
+        width: 348
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1949
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1712
+        width: 307
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2002
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_7
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1809
+        width: 224
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_8
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1980
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1707
+        width: 147
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_10
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2006
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_11
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1935
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1990
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1965
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_14
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1915
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1551
+        width: 164
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1799
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_17
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1765
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_18
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1782
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_19
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1802
+        width: 26
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_20
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1773
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_21
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1779
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_22
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1741
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1542
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1706
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1606
+        width: 77
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1719
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_28
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1500
+        width: 148
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1693
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_30
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1691
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_31
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1501
+        width: 146
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_32
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1680
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_33
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1692
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1689
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_35
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1510
+        width: 197
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_36
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1681
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_37
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1679
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1679
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_39
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1653
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1481
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1575
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_42
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1665
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_43
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1400
+        width: 140
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_44
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1621
+        width: 12
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1548
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1572
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_47
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1558
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_48
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1555
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1372
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1528
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_51
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1441
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1371
+        width: 193
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_53
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1405
+        width: 259
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_54
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1522
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1241
+        width: 135
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_56
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1481
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_57
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1507
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1219
+        width: 123
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1409
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_60
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1465
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_61
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1446
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_62
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1454
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_63
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1237
+        width: 129
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_64
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1409
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_65
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1213
+        width: 136
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_66
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1176
+        width: 110
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_67
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1394
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_68
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1169
+        width: 118
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_69
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1225
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1180
+        width: 102
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_71
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1382
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_72
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1243
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_73
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1370
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_74
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1356
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1242
+        width: 46
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_76
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1297
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1298
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_78
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1340
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_79
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1308
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_80
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1340
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_81
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1319
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_82
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1275
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_83
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1289
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_84
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1309
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_85
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1297
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_86
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1282
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_87
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1245
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_88
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1223
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_89
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1272
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_90
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1225
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_91
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1212
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_92
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1241
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_93
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1195
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_94
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1195
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_95
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1240
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_96
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1210
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_97
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1230
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_98
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1098
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_99
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1193
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_100
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1197
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_101
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1170
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_102
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1171
+        width: 12
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_103
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1155
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_105
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1081
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1211
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_107
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1086
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_108
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1175
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_109
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1066
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_110
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1169
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_111
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1142
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_112
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1125
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_113
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1165
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_114
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1048
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_115
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1122
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_116
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1159
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1123
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_118
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1104
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_119
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1143
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_120
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1024
+        width: 138
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_121
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1058
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_122
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1107
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_123
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1123
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_124
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 982
+        width: 144
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_125
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1115
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_126
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_128
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 971
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_129
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 963
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_130
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1041
+        width: 12
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_132
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1016
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_133
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1054
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_134
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1051
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_136
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1069
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_137
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 927
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_138
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 990
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_139
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1013
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_140
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1058
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_141
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1058
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_142
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1056
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_143
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1032
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_144
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 974
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_145
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 905
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_146
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1037
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_147
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 910
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_148
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1021
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_149
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 878
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_150
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 982
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_151
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 867
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_152
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1006
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_153
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 843
+        width: 142
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_154
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 759
+        width: 55
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_155
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 950
+        width: 93
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_156
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 942
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 802
+        width: 81
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_158
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 880
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_159
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 783
+        width: 91
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_161
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 816
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_162
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 750
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 889
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_164
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 820
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_165
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 875
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_166
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 794
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_167
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 885
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_168
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 789
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_169
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 824
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_170
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 834
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_171
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 876
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_172
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 773
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_174
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 747
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_175
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 800
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_176
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 766
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_177
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 830
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_178
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 747
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_179
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 839
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_180
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 745
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_181
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 738
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_182
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 821
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_183
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 802
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_184
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 710
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_185
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 702
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_186
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 729
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_187
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 773
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_188
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 685
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_189
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 718
+        width: 12
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_190
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 710
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_191
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 780
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_192
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 695
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_193
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 736
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_194
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 717
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_196
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 644
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_197
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 652
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_198
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 712
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_199
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 658
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_200
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 669
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_201
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 667
+        width: 12
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_202
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 641
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_203
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 675
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_204
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 670
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_205
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 717
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_206
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 666
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_207
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 720
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_208
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 634
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_209
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 696
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_210
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 606
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_211
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 627
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_212
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 621
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_213
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 672
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_214
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 612
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_215
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 650
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_217
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 589
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_218
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 601
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_219
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 576
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_220
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 575
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_221
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 656
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 655
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_223
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 567
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_224
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 640
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_225
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 640
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_226
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 598
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_227
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 554
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_228
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 599
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_229
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 550
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_230
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 533
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_231
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 550
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_232
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 568
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_233
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 545
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_234
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 523
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_235
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 612
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_236
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 542
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_237
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 552
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_238
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 544
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_240
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 540
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_241
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 518
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_242
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 499
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_243
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 504
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_244
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 565
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_245
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 468
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_246
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 542
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_247
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 481
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_248
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 504
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_249
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 563
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_250
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 542
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_251
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 525
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_252
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 509
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_253
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 501
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_254
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 534
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_255
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 516
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_256
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 452
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_257
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 469
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_258
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 480
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_259
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 455
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_260
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 530
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_261
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 475
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_262
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 435
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_263
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_264
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 445
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_265
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 452
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_266
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 501
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_267
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 524
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_268
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 465
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_269
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_270
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 504
+        width: 67
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_271
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 452
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_272
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 482
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_273
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 477
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_274
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 497
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_275
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 462
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_276
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 498
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_277
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 450
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_278
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 481
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_279
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 451
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_280
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 481
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_281
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 402
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_282
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 486
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_283
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 415
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_284
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 394
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_285
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 442
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_286
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 427
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_287
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 407
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_288
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 374
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_289
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 386
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_290
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 371
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_291
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 437
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_292
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 448
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_293
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 445
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_294
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 444
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_295
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 451
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_296
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 407
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_297
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 427
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_298
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 391
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_299
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 377
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_300
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 431
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_301
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 440
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_302
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 386
+        width: 12
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_303
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_304
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 407
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_305
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 399
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_306
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 417
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_307
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 359
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_308
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 351
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_309
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 362
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_310
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 379
+        width: 12
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_311
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 365
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_312
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 363
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_313
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 417
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_314
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 399
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_316
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 320
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_317
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 46
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_318
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 357
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_319
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 312
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_320
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 313
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_321
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 232
+        width: 43
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_322
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 283
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_323
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 310
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_324
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 329
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_325
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 303
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_326
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 241
+        width: 45
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_327
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 235
+        width: 45
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_328
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 322
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_329
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 234
+        width: 45
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_330
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 332
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_331
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 322
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_332
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 357
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_333
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 310
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_334
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 292
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_335
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 308
+        width: 12
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_336
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 343
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_337
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 284
+        width: 12
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_338
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 273
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_339
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 275
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_340
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_341
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 245
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_342
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_343
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 268
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_344
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 241
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_345
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 183
+        width: 40
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_346
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 208
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_347
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 186
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_348
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 238
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_349
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 250
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_350
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 225
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_351
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 243
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_352
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 243
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_353
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 213
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_354
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 234
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_355
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 209
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_356
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 209
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_357
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_358
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 172
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_359
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 178
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_360
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 189
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_361
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 122
+        width: 39
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_362
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 184
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_363
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 155
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_364
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 146
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_365
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 177
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_366
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 120
+        width: 38
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_367
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 167
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_368
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 143
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_369
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 171
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_370
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 196
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_371
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 173
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_372
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_373
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 118
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_374
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 171
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_375
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 174
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_376
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 174
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_377
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 144
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_378
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 149
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_379
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 131
+        width: 12
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_380
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_381
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_382
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 114
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_383
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 128
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_384
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 119
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_385
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 112
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_386
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 87
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_387
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 123
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_388
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 117
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_389
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 59
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_390
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 110
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_391
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 64
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_392
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 89
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_393
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 132
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_394
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 111
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_395
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 110
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_396
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 109
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_397
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 89
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_398
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 115
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_399
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 92
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_400
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 104
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_401
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 95
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_402
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_403
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 60
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_404
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 63
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_405
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 76
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_406
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 55
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_407
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 68
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_408
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 61
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_409
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 61
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_410
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 38
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_411
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 67
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_412
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 63
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_413
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_414
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 54
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_415
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 80
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_416
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 61
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_417
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 55
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_418
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 67
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_419
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 40
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_420
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 64
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_421
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 41
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_422
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 54
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_423
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 53
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_424
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 46
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_425
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 16
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_426
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_427
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_428
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 26
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_429
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 20
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_430
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 15
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_431
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 15
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_432
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 19
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_433
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 15
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_434
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 15
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_435
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 16
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_436
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 56
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_437
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 11
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_438
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 29
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_439
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 31
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_440
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 15
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_441
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 19
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_442
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 15
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_443
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_444
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 19
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_445
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_446
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 14
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_447
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_448
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 15
+        width: 76
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_449
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 19
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_450
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_451
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_452
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 12
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_453
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 13
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_454
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 6
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_455
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 73
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_456
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 5
+        width: 75
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_457
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5
+        width: 75
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_458
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_459
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 5
+        width: 70
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effects_tex_0_460
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 5
+        width: 73
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

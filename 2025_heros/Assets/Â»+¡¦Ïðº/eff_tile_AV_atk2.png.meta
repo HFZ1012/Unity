@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 2a259feb4dc6e9946a4b4219d7d8fd57
+timeCreated: 1463868133
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eff_tile_AV_atk2_0
+    21300002: eff_tile_AV_atk2_1
+    21300004: eff_tile_AV_atk2_2
+    21300006: eff_tile_AV_atk2_3
+    21300008: eff_tile_AV_atk2_4
+    21300010: eff_tile_AV_atk2_5
+    21300012: eff_tile_AV_atk2_6
+    21300014: eff_tile_AV_atk2_7
+    21300016: eff_tile_AV_atk2_8
+    21300018: eff_tile_AV_atk2_9
+    21300020: eff_tile_AV_atk2_10
+    21300022: eff_tile_AV_atk2_11
+    21300024: eff_tile_AV_atk2_12
+    21300026: eff_tile_AV_atk2_13
+    21300028: eff_tile_AV_atk2_14
+    21300030: eff_tile_AV_atk2_15
+    21300032: eff_tile_AV_atk2_16
+    21300034: eff_tile_AV_atk2_17
+    21300036: eff_tile_AV_atk2_18
+    21300038: eff_tile_AV_atk2_19
+    21300040: eff_tile_AV_atk2_20
+    21300042: eff_tile_AV_atk2_21
+    21300044: eff_tile_AV_atk2_22
+    21300046: eff_tile_AV_atk2_23
+    21300048: eff_tile_AV_atk2_24
+    21300050: eff_tile_AV_atk2_25
+    21300052: eff_tile_AV_atk2_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eff_tile_AV_atk2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 193
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 68
+        width: 177
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 116
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 99
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 61
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 92
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 106
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 106
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 61
+        width: 79
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 30
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 4
+        width: 27
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 85
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 16
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 68
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 41
+        width: 87
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 42
+        width: 87
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_20
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 32
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 8
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 17
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 5
+        width: 80
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_24
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 22
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 6
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_AV_atk2_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 13
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

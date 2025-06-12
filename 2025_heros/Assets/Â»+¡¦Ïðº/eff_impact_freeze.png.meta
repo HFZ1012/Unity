@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 267e06ffd505b764e91ddbc0d3443142
+timeCreated: 1463868875
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eff_impact_freeze_0
+    21300002: eff_impact_freeze_1
+    21300004: eff_impact_freeze_2
+    21300006: eff_impact_freeze_3
+    21300008: eff_impact_freeze_4
+    21300010: eff_impact_freeze_5
+    21300012: eff_impact_freeze_6
+    21300014: eff_impact_freeze_7
+    21300016: eff_impact_freeze_8
+    21300018: eff_impact_freeze_9
+    21300020: eff_impact_freeze_10
+    21300022: eff_impact_freeze_11
+    21300024: eff_impact_freeze_12
+    21300026: eff_impact_freeze_13
+    21300028: eff_impact_freeze_14
+    21300030: eff_impact_freeze_15
+    21300032: eff_impact_freeze_16
+    21300034: eff_impact_freeze_17
+    21300036: eff_impact_freeze_18
+    21300038: eff_impact_freeze_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eff_impact_freeze_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 154
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 117
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 110
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 78
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 108
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 82
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 87
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 94
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 92
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 73
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 61
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 34
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 54
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 52
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 42
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 15
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_impact_freeze_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

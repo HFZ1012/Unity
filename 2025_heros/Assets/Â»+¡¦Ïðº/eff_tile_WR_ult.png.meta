@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 02defc208691a20479f2c13cbc5bf356
+timeCreated: 1463853250
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eff_tile_WR_ult_0
+    21300002: eff_tile_WR_ult_1
+    21300004: eff_tile_WR_ult_2
+    21300006: eff_tile_WR_ult_3
+    21300008: eff_tile_WR_ult_4
+    21300010: eff_tile_WR_ult_5
+    21300012: eff_tile_WR_ult_6
+    21300014: eff_tile_WR_ult_7
+    21300016: eff_tile_WR_ult_8
+    21300018: eff_tile_WR_ult_9
+    21300020: eff_tile_WR_ult_10
+    21300022: eff_tile_WR_ult_11
+    21300024: eff_tile_WR_ult_12
+    21300026: eff_tile_WR_ult_13
+    21300028: eff_tile_WR_ult_14
+    21300030: eff_tile_WR_ult_15
+    21300032: eff_tile_WR_ult_16
+    21300034: eff_tile_WR_ult_17
+    21300036: eff_tile_WR_ult_18
+    21300038: eff_tile_WR_ult_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eff_tile_WR_ult_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 360
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 27
+        width: 220
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_2
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 83
+        width: 41
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_3
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 55
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 78
+        width: 59
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_5
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 66
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 59
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 62
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 57
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 57
+        width: 117
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_10
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 61
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_11
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 55
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 51
+        width: 55
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 35
+        width: 180
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_14
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 44
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 28
+        width: 45
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2
+        width: 248
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 9
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_18
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 7
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_WR_ult_19
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 4
+        width: 177
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

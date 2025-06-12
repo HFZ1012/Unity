@@ -1,0 +1,1057 @@
+fileFormatVersion: 2
+guid: fb89525496d28a54e8039cb2adc076e8
+timeCreated: 1465137802
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eff_UI_hero_upgrade_1_0
+    21300002: eff_UI_hero_upgrade_1_1
+    21300004: eff_UI_hero_upgrade_1_2
+    21300006: eff_UI_hero_upgrade_1_3
+    21300008: eff_UI_hero_upgrade_1_4
+    21300010: eff_UI_hero_upgrade_1_5
+    21300012: eff_UI_hero_upgrade_1_6
+    21300014: eff_UI_hero_upgrade_1_7
+    21300016: eff_UI_hero_upgrade_1_8
+    21300018: eff_UI_hero_upgrade_1_9
+    21300020: eff_UI_hero_upgrade_1_10
+    21300022: eff_UI_hero_upgrade_1_11
+    21300024: eff_UI_hero_upgrade_1_12
+    21300026: eff_UI_hero_upgrade_1_13
+    21300028: eff_UI_hero_upgrade_1_14
+    21300030: eff_UI_hero_upgrade_1_15
+    21300032: eff_UI_hero_upgrade_1_16
+    21300034: eff_UI_hero_upgrade_1_17
+    21300036: eff_UI_hero_upgrade_1_18
+    21300038: eff_UI_hero_upgrade_1_19
+    21300040: eff_UI_hero_upgrade_1_20
+    21300042: eff_UI_hero_upgrade_1_21
+    21300044: eff_UI_hero_upgrade_1_22
+    21300046: eff_UI_hero_upgrade_1_23
+    21300048: eff_UI_hero_upgrade_1_24
+    21300050: eff_UI_hero_upgrade_1_25
+    21300052: eff_UI_hero_upgrade_1_26
+    21300054: eff_UI_hero_upgrade_1_27
+    21300056: eff_UI_hero_upgrade_1_28
+    21300058: eff_UI_hero_upgrade_1_29
+    21300060: eff_UI_hero_upgrade_1_30
+    21300062: eff_UI_hero_upgrade_1_31
+    21300064: eff_UI_hero_upgrade_1_32
+    21300066: eff_UI_hero_upgrade_1_33
+    21300068: eff_UI_hero_upgrade_1_34
+    21300070: eff_UI_hero_upgrade_1_35
+    21300072: eff_UI_hero_upgrade_1_36
+    21300074: eff_UI_hero_upgrade_1_37
+    21300076: eff_UI_hero_upgrade_1_38
+    21300078: eff_UI_hero_upgrade_1_39
+    21300080: eff_UI_hero_upgrade_1_40
+    21300082: eff_UI_hero_upgrade_1_41
+    21300084: eff_UI_hero_upgrade_1_42
+    21300086: eff_UI_hero_upgrade_1_43
+    21300088: eff_UI_hero_upgrade_1_44
+    21300090: eff_UI_hero_upgrade_1_45
+    21300092: eff_UI_hero_upgrade_1_46
+    21300094: eff_UI_hero_upgrade_1_47
+    21300096: eff_UI_hero_upgrade_1_48
+    21300098: eff_UI_hero_upgrade_1_49
+    21300100: eff_UI_hero_upgrade_1_50
+    21300102: eff_UI_hero_upgrade_1_51
+    21300104: eff_UI_hero_upgrade_1_52
+    21300106: eff_UI_hero_upgrade_1_53
+    21300108: eff_UI_hero_upgrade_1_54
+    21300110: eff_UI_hero_upgrade_1_55
+    21300112: eff_UI_hero_upgrade_1_56
+    21300114: eff_UI_hero_upgrade_1_57
+    21300116: eff_UI_hero_upgrade_1_58
+    21300118: eff_UI_hero_upgrade_1_59
+    21300120: eff_UI_hero_upgrade_1_60
+    21300122: eff_UI_hero_upgrade_1_61
+    21300124: eff_UI_hero_upgrade_1_62
+    21300126: eff_UI_hero_upgrade_1_63
+    21300128: eff_UI_hero_upgrade_1_64
+    21300130: eff_UI_hero_upgrade_1_65
+    21300132: eff_UI_hero_upgrade_1_66
+    21300134: eff_UI_hero_upgrade_1_67
+    21300136: eff_UI_hero_upgrade_1_68
+    21300138: eff_UI_hero_upgrade_1_69
+    21300140: eff_UI_hero_upgrade_1_70
+    21300142: eff_UI_hero_upgrade_1_71
+    21300144: eff_UI_hero_upgrade_1_72
+    21300146: eff_UI_hero_upgrade_1_73
+    21300148: eff_UI_hero_upgrade_1_74
+    21300150: eff_UI_hero_upgrade_1_75
+    21300152: eff_UI_hero_upgrade_1_76
+    21300154: eff_UI_hero_upgrade_1_77
+    21300156: eff_UI_hero_upgrade_1_78
+    21300158: eff_UI_hero_upgrade_1_79
+    21300160: eff_UI_hero_upgrade_1_80
+    21300162: eff_UI_hero_upgrade_1_81
+    21300164: eff_UI_hero_upgrade_1_82
+    21300166: eff_UI_hero_upgrade_1_83
+    21300168: eff_UI_hero_upgrade_1_84
+    21300170: eff_UI_hero_upgrade_1_85
+    21300172: eff_UI_hero_upgrade_1_86
+    21300174: eff_UI_hero_upgrade_1_87
+    21300176: eff_UI_hero_upgrade_1_88
+    21300178: eff_UI_hero_upgrade_1_89
+    21300180: eff_UI_hero_upgrade_1_90
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eff_UI_hero_upgrade_1_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1877
+        width: 198
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1979
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1979
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1979
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1972
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1967
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1904
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1906
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1900
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1900
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1902
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1882
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1881
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1855
+        width: 221
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1842
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1838
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1827
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1739
+        width: 221
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1811
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1797
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1796
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1781
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1718
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1654
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1605
+        width: 219
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1713
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1650
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1623
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1639
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1609
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_30
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1584
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1467
+        width: 205
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1551
+        width: 127
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1486
+        width: 97
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1328
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_35
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1443
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1222
+        width: 125
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1299
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1249
+        width: 130
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1217
+        width: 113
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1216
+        width: 139
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1099
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1101
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1150
+        width: 103
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1107
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1107
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 966
+        width: 189
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1027
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1015
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1017
+        width: 31
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 826
+        width: 121
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_51
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 998
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 947
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 803
+        width: 187
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 877
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 824
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 642
+        width: 191
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 631
+        width: 127
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 521
+        width: 187
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 593
+        width: 105
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_60
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 529
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_62
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 486
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 369
+        width: 187
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 495
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 425
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_66
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 404
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 392
+        width: 37
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 216
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 351
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 329
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 261
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_73
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 260
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_74
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 275
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 105
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_76
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 174
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 167
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 169
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_79
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 121
+        width: 97
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_80
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_81
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 101
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 95
+        width: 16
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_83
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 92
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 115
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_85
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_86
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 73
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_87
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 71
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_88
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 52
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_89
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 30
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_UI_hero_upgrade_1_90
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

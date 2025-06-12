@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: f5fd7bfe81bab134bac24da194f28868
+timeCreated: 1463853419
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eff_tile_TH_atk2_0
+    21300002: eff_tile_TH_atk2_1
+    21300004: eff_tile_TH_atk2_2
+    21300006: eff_tile_TH_atk2_3
+    21300008: eff_tile_TH_atk2_4
+    21300010: eff_tile_TH_atk2_5
+    21300012: eff_tile_TH_atk2_6
+    21300014: eff_tile_TH_atk2_7
+    21300016: eff_tile_TH_atk2_8
+    21300018: eff_tile_TH_atk2_9
+    21300020: eff_tile_TH_atk2_10
+    21300022: eff_tile_TH_atk2_11
+    21300024: eff_tile_TH_atk2_12
+    21300026: eff_tile_TH_atk2_13
+    21300028: eff_tile_TH_atk2_14
+    21300030: eff_tile_TH_atk2_15
+    21300032: eff_tile_TH_atk2_16
+    21300034: eff_tile_TH_atk2_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eff_tile_TH_atk2_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 199
+        width: 37
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 121
+        width: 212
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 32
+        width: 118
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 95
+        width: 16
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 95
+        width: 16
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 40
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 156
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 270
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 61
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 20
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_tile_TH_atk2_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

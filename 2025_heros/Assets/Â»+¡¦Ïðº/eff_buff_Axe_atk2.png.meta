@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 5812cd773c8461f4bba769beadea5168
+timeCreated: 1461702774
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eff_buff_Axe_atk2_0
+    21300002: eff_buff_Axe_atk2_1
+    21300004: eff_buff_Axe_atk2_2
+    21300006: eff_buff_Axe_atk2_3
+    21300008: eff_buff_Axe_atk2_4
+    21300010: eff_buff_Axe_atk2_5
+    21300012: eff_buff_Axe_atk2_6
+    21300014: eff_buff_Axe_atk2_7
+    21300016: eff_buff_Axe_atk2_8
+    21300018: eff_buff_Axe_atk2_9
+    21300020: eff_buff_Axe_atk2_10
+    21300022: eff_buff_Axe_atk2_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eff_buff_Axe_atk2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 257
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 171
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 178
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 84
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 32
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eff_buff_Axe_atk2_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5116 @@
+fileFormatVersion: 2
+guid: 88c42a428119f77438aca91a70ccb870
+timeCreated: 1464792115
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: building_tower_tex_0_0
+    21300002: building_tower_tex_0_1
+    21300004: building_tower_tex_0_2
+    21300006: building_tower_tex_0_3
+    21300008: building_tower_tex_0_4
+    21300010: building_tower_tex_0_5
+    21300012: building_tower_tex_0_6
+    21300014: building_tower_tex_0_7
+    21300016: building_tower_tex_0_8
+    21300018: building_tower_tex_0_9
+    21300020: building_tower_tex_0_10
+    21300022: building_tower_tex_0_11
+    21300024: building_tower_tex_0_12
+    21300026: building_tower_tex_0_13
+    21300028: building_tower_tex_0_14
+    21300030: building_tower_tex_0_15
+    21300032: building_tower_tex_0_16
+    21300034: building_tower_tex_0_17
+    21300036: building_tower_tex_0_18
+    21300038: building_tower_tex_0_19
+    21300040: building_tower_tex_0_20
+    21300042: building_tower_tex_0_21
+    21300044: building_tower_tex_0_22
+    21300046: building_tower_tex_0_23
+    21300048: building_tower_tex_0_24
+    21300050: building_tower_tex_0_25
+    21300052: building_tower_tex_0_26
+    21300054: building_tower_tex_0_27
+    21300056: building_tower_tex_0_28
+    21300058: building_tower_tex_0_29
+    21300060: building_tower_tex_0_30
+    21300062: building_tower_tex_0_31
+    21300064: building_tower_tex_0_32
+    21300066: building_tower_tex_0_33
+    21300068: building_tower_tex_0_34
+    21300070: building_tower_tex_0_35
+    21300072: building_tower_tex_0_36
+    21300074: building_tower_tex_0_37
+    21300076: building_tower_tex_0_38
+    21300078: building_tower_tex_0_39
+    21300080: building_tower_tex_0_40
+    21300082: building_tower_tex_0_41
+    21300084: building_tower_tex_0_42
+    21300086: building_tower_tex_0_43
+    21300088: building_tower_tex_0_44
+    21300090: building_tower_tex_0_45
+    21300092: building_tower_tex_0_46
+    21300094: building_tower_tex_0_47
+    21300096: building_tower_tex_0_48
+    21300098: building_tower_tex_0_49
+    21300100: building_tower_tex_0_50
+    21300102: building_tower_tex_0_51
+    21300104: building_tower_tex_0_52
+    21300106: building_tower_tex_0_53
+    21300108: building_tower_tex_0_54
+    21300110: building_tower_tex_0_55
+    21300112: building_tower_tex_0_56
+    21300114: building_tower_tex_0_57
+    21300116: building_tower_tex_0_58
+    21300118: building_tower_tex_0_59
+    21300120: building_tower_tex_0_60
+    21300122: building_tower_tex_0_61
+    21300124: building_tower_tex_0_62
+    21300126: building_tower_tex_0_63
+    21300128: building_tower_tex_0_64
+    21300130: building_tower_tex_0_65
+    21300132: building_tower_tex_0_66
+    21300134: building_tower_tex_0_67
+    21300136: building_tower_tex_0_68
+    21300138: building_tower_tex_0_69
+    21300140: building_tower_tex_0_70
+    21300142: building_tower_tex_0_71
+    21300144: building_tower_tex_0_72
+    21300146: building_tower_tex_0_73
+    21300148: building_tower_tex_0_74
+    21300150: building_tower_tex_0_75
+    21300152: building_tower_tex_0_76
+    21300154: building_tower_tex_0_77
+    21300156: building_tower_tex_0_78
+    21300158: building_tower_tex_0_79
+    21300160: building_tower_tex_0_80
+    21300162: building_tower_tex_0_81
+    21300164: building_tower_tex_0_82
+    21300166: building_tower_tex_0_83
+    21300168: building_tower_tex_0_84
+    21300170: building_tower_tex_0_85
+    21300172: building_tower_tex_0_86
+    21300174: building_tower_tex_0_87
+    21300176: building_tower_tex_0_88
+    21300178: building_tower_tex_0_89
+    21300180: building_tower_tex_0_90
+    21300182: building_tower_tex_0_91
+    21300184: building_tower_tex_0_92
+    21300186: building_tower_tex_0_93
+    21300188: building_tower_tex_0_94
+    21300190: building_tower_tex_0_95
+    21300192: building_tower_tex_0_96
+    21300194: building_tower_tex_0_97
+    21300196: building_tower_tex_0_98
+    21300198: building_tower_tex_0_99
+    21300200: building_tower_tex_0_100
+    21300202: building_tower_tex_0_101
+    21300204: building_tower_tex_0_102
+    21300206: building_tower_tex_0_103
+    21300208: building_tower_tex_0_104
+    21300210: building_tower_tex_0_105
+    21300212: building_tower_tex_0_106
+    21300214: building_tower_tex_0_107
+    21300216: building_tower_tex_0_108
+    21300218: building_tower_tex_0_109
+    21300220: building_tower_tex_0_110
+    21300222: building_tower_tex_0_111
+    21300224: building_tower_tex_0_112
+    21300226: building_tower_tex_0_113
+    21300228: building_tower_tex_0_114
+    21300230: building_tower_tex_0_115
+    21300232: building_tower_tex_0_116
+    21300234: building_tower_tex_0_117
+    21300236: building_tower_tex_0_118
+    21300238: building_tower_tex_0_119
+    21300240: building_tower_tex_0_120
+    21300242: building_tower_tex_0_121
+    21300244: building_tower_tex_0_122
+    21300246: building_tower_tex_0_123
+    21300248: building_tower_tex_0_124
+    21300250: building_tower_tex_0_125
+    21300252: building_tower_tex_0_126
+    21300254: building_tower_tex_0_127
+    21300256: building_tower_tex_0_128
+    21300258: building_tower_tex_0_129
+    21300260: building_tower_tex_0_130
+    21300262: building_tower_tex_0_131
+    21300264: building_tower_tex_0_132
+    21300266: building_tower_tex_0_133
+    21300268: building_tower_tex_0_134
+    21300270: building_tower_tex_0_135
+    21300272: building_tower_tex_0_136
+    21300274: building_tower_tex_0_137
+    21300276: building_tower_tex_0_138
+    21300278: building_tower_tex_0_139
+    21300280: building_tower_tex_0_140
+    21300282: building_tower_tex_0_141
+    21300284: building_tower_tex_0_142
+    21300286: building_tower_tex_0_143
+    21300288: building_tower_tex_0_144
+    21300290: building_tower_tex_0_145
+    21300292: building_tower_tex_0_146
+    21300294: building_tower_tex_0_147
+    21300296: building_tower_tex_0_148
+    21300298: building_tower_tex_0_149
+    21300300: building_tower_tex_0_150
+    21300302: building_tower_tex_0_151
+    21300304: building_tower_tex_0_152
+    21300306: building_tower_tex_0_153
+    21300308: building_tower_tex_0_154
+    21300310: building_tower_tex_0_155
+    21300312: building_tower_tex_0_156
+    21300314: building_tower_tex_0_157
+    21300316: building_tower_tex_0_158
+    21300318: building_tower_tex_0_159
+    21300320: building_tower_tex_0_160
+    21300322: building_tower_tex_0_161
+    21300324: building_tower_tex_0_162
+    21300326: building_tower_tex_0_163
+    21300328: building_tower_tex_0_164
+    21300330: building_tower_tex_0_165
+    21300332: building_tower_tex_0_166
+    21300334: building_tower_tex_0_167
+    21300336: building_tower_tex_0_168
+    21300338: building_tower_tex_0_169
+    21300340: building_tower_tex_0_170
+    21300342: building_tower_tex_0_171
+    21300344: building_tower_tex_0_172
+    21300346: building_tower_tex_0_173
+    21300348: building_tower_tex_0_174
+    21300350: building_tower_tex_0_175
+    21300352: building_tower_tex_0_176
+    21300354: building_tower_tex_0_177
+    21300356: building_tower_tex_0_178
+    21300358: building_tower_tex_0_179
+    21300360: building_tower_tex_0_180
+    21300362: building_tower_tex_0_181
+    21300364: building_tower_tex_0_182
+    21300366: building_tower_tex_0_183
+    21300368: building_tower_tex_0_184
+    21300370: building_tower_tex_0_185
+    21300372: building_tower_tex_0_186
+    21300374: building_tower_tex_0_187
+    21300376: building_tower_tex_0_188
+    21300378: building_tower_tex_0_189
+    21300380: building_tower_tex_0_190
+    21300382: building_tower_tex_0_191
+    21300384: building_tower_tex_0_192
+    21300386: building_tower_tex_0_193
+    21300388: building_tower_tex_0_194
+    21300390: building_tower_tex_0_195
+    21300392: building_tower_tex_0_196
+    21300394: building_tower_tex_0_197
+    21300396: building_tower_tex_0_198
+    21300398: building_tower_tex_0_199
+    21300400: building_tower_tex_0_200
+    21300402: building_tower_tex_0_201
+    21300404: building_tower_tex_0_202
+    21300406: building_tower_tex_0_203
+    21300408: building_tower_tex_0_204
+    21300410: building_tower_tex_0_205
+    21300412: building_tower_tex_0_206
+    21300414: building_tower_tex_0_207
+    21300416: building_tower_tex_0_208
+    21300418: building_tower_tex_0_209
+    21300420: building_tower_tex_0_210
+    21300422: building_tower_tex_0_211
+    21300424: building_tower_tex_0_212
+    21300426: building_tower_tex_0_213
+    21300428: building_tower_tex_0_214
+    21300430: building_tower_tex_0_215
+    21300432: building_tower_tex_0_216
+    21300434: building_tower_tex_0_217
+    21300436: building_tower_tex_0_218
+    21300438: building_tower_tex_0_219
+    21300440: building_tower_tex_0_220
+    21300442: building_tower_tex_0_221
+    21300444: building_tower_tex_0_222
+    21300446: building_tower_tex_0_223
+    21300448: building_tower_tex_0_224
+    21300450: building_tower_tex_0_225
+    21300452: building_tower_tex_0_226
+    21300454: building_tower_tex_0_227
+    21300456: building_tower_tex_0_228
+    21300458: building_tower_tex_0_229
+    21300460: building_tower_tex_0_230
+    21300462: building_tower_tex_0_231
+    21300464: building_tower_tex_0_232
+    21300466: building_tower_tex_0_233
+    21300468: building_tower_tex_0_234
+    21300470: building_tower_tex_0_235
+    21300472: building_tower_tex_0_236
+    21300474: building_tower_tex_0_237
+    21300476: building_tower_tex_0_238
+    21300478: building_tower_tex_0_239
+    21300480: building_tower_tex_0_240
+    21300482: building_tower_tex_0_241
+    21300484: building_tower_tex_0_242
+    21300486: building_tower_tex_0_243
+    21300488: building_tower_tex_0_244
+    21300490: building_tower_tex_0_245
+    21300492: building_tower_tex_0_246
+    21300494: building_tower_tex_0_247
+    21300496: building_tower_tex_0_248
+    21300498: building_tower_tex_0_249
+    21300500: building_tower_tex_0_250
+    21300502: building_tower_tex_0_251
+    21300504: building_tower_tex_0_252
+    21300506: building_tower_tex_0_253
+    21300508: building_tower_tex_0_254
+    21300510: building_tower_tex_0_255
+    21300512: building_tower_tex_0_256
+    21300514: building_tower_tex_0_257
+    21300516: building_tower_tex_0_258
+    21300518: building_tower_tex_0_259
+    21300520: building_tower_tex_0_260
+    21300522: building_tower_tex_0_261
+    21300524: building_tower_tex_0_262
+    21300526: building_tower_tex_0_263
+    21300528: building_tower_tex_0_264
+    21300530: building_tower_tex_0_265
+    21300532: building_tower_tex_0_266
+    21300534: building_tower_tex_0_267
+    21300536: building_tower_tex_0_268
+    21300538: building_tower_tex_0_269
+    21300540: building_tower_tex_0_270
+    21300542: building_tower_tex_0_271
+    21300544: building_tower_tex_0_272
+    21300546: building_tower_tex_0_273
+    21300548: building_tower_tex_0_274
+    21300550: building_tower_tex_0_275
+    21300552: building_tower_tex_0_276
+    21300554: building_tower_tex_0_277
+    21300556: building_tower_tex_0_278
+    21300558: building_tower_tex_0_279
+    21300560: building_tower_tex_0_280
+    21300562: building_tower_tex_0_281
+    21300564: building_tower_tex_0_282
+    21300566: building_tower_tex_0_283
+    21300568: building_tower_tex_0_284
+    21300570: building_tower_tex_0_285
+    21300572: building_tower_tex_0_286
+    21300574: building_tower_tex_0_287
+    21300576: building_tower_tex_0_288
+    21300578: building_tower_tex_0_289
+    21300580: building_tower_tex_0_290
+    21300582: building_tower_tex_0_291
+    21300584: building_tower_tex_0_292
+    21300586: building_tower_tex_0_293
+    21300588: building_tower_tex_0_294
+    21300590: building_tower_tex_0_295
+    21300592: building_tower_tex_0_296
+    21300594: building_tower_tex_0_297
+    21300596: building_tower_tex_0_298
+    21300598: building_tower_tex_0_299
+    21300600: building_tower_tex_0_300
+    21300602: building_tower_tex_0_301
+    21300604: building_tower_tex_0_302
+    21300606: building_tower_tex_0_303
+    21300608: building_tower_tex_0_304
+    21300610: building_tower_tex_0_305
+    21300612: building_tower_tex_0_306
+    21300614: building_tower_tex_0_307
+    21300616: building_tower_tex_0_308
+    21300618: building_tower_tex_0_309
+    21300620: building_tower_tex_0_310
+    21300622: building_tower_tex_0_311
+    21300624: building_tower_tex_0_312
+    21300626: building_tower_tex_0_313
+    21300628: building_tower_tex_0_314
+    21300630: building_tower_tex_0_315
+    21300632: building_tower_tex_0_316
+    21300634: building_tower_tex_0_317
+    21300636: building_tower_tex_0_318
+    21300638: building_tower_tex_0_319
+    21300640: building_tower_tex_0_320
+    21300642: building_tower_tex_0_321
+    21300644: building_tower_tex_0_322
+    21300646: building_tower_tex_0_323
+    21300648: building_tower_tex_0_324
+    21300650: building_tower_tex_0_325
+    21300652: building_tower_tex_0_326
+    21300654: building_tower_tex_0_327
+    21300656: building_tower_tex_0_328
+    21300658: building_tower_tex_0_329
+    21300660: building_tower_tex_0_330
+    21300662: building_tower_tex_0_331
+    21300664: building_tower_tex_0_332
+    21300666: building_tower_tex_0_333
+    21300668: building_tower_tex_0_334
+    21300670: building_tower_tex_0_335
+    21300672: building_tower_tex_0_336
+    21300674: building_tower_tex_0_337
+    21300676: building_tower_tex_0_338
+    21300678: building_tower_tex_0_339
+    21300680: building_tower_tex_0_340
+    21300682: building_tower_tex_0_341
+    21300684: building_tower_tex_0_342
+    21300686: building_tower_tex_0_343
+    21300688: building_tower_tex_0_344
+    21300690: building_tower_tex_0_345
+    21300692: building_tower_tex_0_346
+    21300694: building_tower_tex_0_347
+    21300696: building_tower_tex_0_348
+    21300698: building_tower_tex_0_349
+    21300700: building_tower_tex_0_350
+    21300702: building_tower_tex_0_351
+    21300704: building_tower_tex_0_352
+    21300706: building_tower_tex_0_353
+    21300708: building_tower_tex_0_354
+    21300710: building_tower_tex_0_355
+    21300712: building_tower_tex_0_356
+    21300714: building_tower_tex_0_357
+    21300716: building_tower_tex_0_358
+    21300718: building_tower_tex_0_359
+    21300720: building_tower_tex_0_360
+    21300722: building_tower_tex_0_361
+    21300724: building_tower_tex_0_362
+    21300726: building_tower_tex_0_363
+    21300728: building_tower_tex_0_364
+    21300730: building_tower_tex_0_365
+    21300732: building_tower_tex_0_366
+    21300734: building_tower_tex_0_367
+    21300736: building_tower_tex_0_368
+    21300738: building_tower_tex_0_369
+    21300740: building_tower_tex_0_370
+    21300742: building_tower_tex_0_371
+    21300744: building_tower_tex_0_372
+    21300746: building_tower_tex_0_373
+    21300748: building_tower_tex_0_374
+    21300750: building_tower_tex_0_375
+    21300752: building_tower_tex_0_376
+    21300754: building_tower_tex_0_377
+    21300756: building_tower_tex_0_378
+    21300758: building_tower_tex_0_379
+    21300760: building_tower_tex_0_380
+    21300762: building_tower_tex_0_381
+    21300764: building_tower_tex_0_382
+    21300766: building_tower_tex_0_383
+    21300768: building_tower_tex_0_384
+    21300770: building_tower_tex_0_385
+    21300772: building_tower_tex_0_386
+    21300774: building_tower_tex_0_387
+    21300776: building_tower_tex_0_388
+    21300778: building_tower_tex_0_389
+    21300780: building_tower_tex_0_390
+    21300782: building_tower_tex_0_391
+    21300784: building_tower_tex_0_392
+    21300786: building_tower_tex_0_393
+    21300788: building_tower_tex_0_394
+    21300790: building_tower_tex_0_395
+    21300792: building_tower_tex_0_396
+    21300794: building_tower_tex_0_397
+    21300796: building_tower_tex_0_398
+    21300798: building_tower_tex_0_399
+    21300800: building_tower_tex_0_400
+    21300802: building_tower_tex_0_401
+    21300804: building_tower_tex_0_402
+    21300806: building_tower_tex_0_403
+    21300808: building_tower_tex_0_404
+    21300810: building_tower_tex_0_405
+    21300812: building_tower_tex_0_406
+    21300814: building_tower_tex_0_407
+    21300816: building_tower_tex_0_408
+    21300818: building_tower_tex_0_409
+    21300820: building_tower_tex_0_410
+    21300822: building_tower_tex_0_411
+    21300824: building_tower_tex_0_412
+    21300826: building_tower_tex_0_413
+    21300828: building_tower_tex_0_414
+    21300830: building_tower_tex_0_415
+    21300832: building_tower_tex_0_416
+    21300834: building_tower_tex_0_417
+    21300836: building_tower_tex_0_418
+    21300838: building_tower_tex_0_419
+    21300840: building_tower_tex_0_420
+    21300842: building_tower_tex_0_421
+    21300844: building_tower_tex_0_422
+    21300846: building_tower_tex_0_423
+    21300848: building_tower_tex_0_424
+    21300850: building_tower_tex_0_425
+    21300852: building_tower_tex_0_426
+    21300854: building_tower_tex_0_427
+    21300856: building_tower_tex_0_428
+    21300858: building_tower_tex_0_429
+    21300860: building_tower_tex_0_430
+    21300862: building_tower_tex_0_431
+    21300864: building_tower_tex_0_432
+    21300866: building_tower_tex_0_433
+    21300868: building_tower_tex_0_434
+    21300870: building_tower_tex_0_435
+    21300872: building_tower_tex_0_436
+    21300874: building_tower_tex_0_437
+    21300876: building_tower_tex_0_438
+    21300878: building_tower_tex_0_439
+    21300880: building_tower_tex_0_440
+    21300882: building_tower_tex_0_441
+    21300884: building_tower_tex_0_442
+    21300886: building_tower_tex_0_443
+    21300888: building_tower_tex_0_444
+    21300890: building_tower_tex_0_445
+    21300892: building_tower_tex_0_446
+    21300894: building_tower_tex_0_447
+    21300896: building_tower_tex_0_448
+    21300898: building_tower_tex_0_449
+    21300900: building_tower_tex_0_450
+    21300902: building_tower_tex_0_451
+    21300904: building_tower_tex_0_452
+    21300906: building_tower_tex_0_453
+    21300908: building_tower_tex_0_454
+    21300910: building_tower_tex_0_455
+    21300912: building_tower_tex_0_456
+    21300914: building_tower_tex_0_457
+    21300916: building_tower_tex_0_458
+    21300918: building_tower_tex_0_459
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: building_tower_tex_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 199
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1811
+        width: 198
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2010
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1833
+        width: 170
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2016
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1845
+        width: 170
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2013
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_7
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1839
+        width: 138
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_8
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2012
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_9
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1843
+        width: 139
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_10
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1881
+        width: 171
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_11
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1846
+        width: 140
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_12
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2013
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_13
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1869
+        width: 157
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_14
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1945
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1929
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_16
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1931
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_17
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1911
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_18
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1912
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_19
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1864
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_20
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1696
+        width: 145
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_21
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1877
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_22
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1735
+        width: 157
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1713
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1764
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_25
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1625
+        width: 137
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1792
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_27
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1692
+        width: 172
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_28
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1659
+        width: 138
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_29
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1665
+        width: 145
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_30
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1661
+        width: 138
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_31
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1664
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1628
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_33
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1763
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1766
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_35
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1766
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_36
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1727
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_37
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1715
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_38
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1560
+        width: 145
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1527
+        width: 135
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1520
+        width: 138
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1500
+        width: 139
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_42
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1644
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_43
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1523
+        width: 144
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_44
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1523
+        width: 146
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_45
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1523
+        width: 145
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_46
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1518
+        width: 135
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1464
+        width: 143
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1571
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1425
+        width: 139
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_50
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1584
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_51
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1546
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_52
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1455
+        width: 135
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1363
+        width: 139
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_54
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1361
+        width: 139
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_55
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1462
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_56
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1476
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_57
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1376
+        width: 144
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_58
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1399
+        width: 158
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_59
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1384
+        width: 141
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_60
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1391
+        width: 145
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_61
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1392
+        width: 126
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_62
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1423
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1463
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_64
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1463
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_65
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1447
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_66
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1293
+        width: 121
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1299
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_68
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1263
+        width: 132
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_69
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1273
+        width: 139
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_70
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1250
+        width: 118
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_71
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1247
+        width: 139
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_72
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1347
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_73
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1253
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_74
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1384
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_75
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1387
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_76
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1368
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_77
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1221
+        width: 127
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_78
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1374
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_79
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1351
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_80
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1371
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_81
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1365
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_82
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1357
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_84
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1348
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_85
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1337
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_86
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1317
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_87
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1341
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_88
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1340
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_89
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1328
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_90
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1342
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_91
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1179
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_92
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1298
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_93
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1168
+        width: 137
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_94
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1306
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_95
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1312
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_96
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1159
+        width: 142
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1212
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_98
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1222
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_99
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1220
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_100
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1244
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_101
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1130
+        width: 136
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_102
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1100
+        width: 135
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_103
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1164
+        width: 137
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_104
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1078
+        width: 116
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_105
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1109
+        width: 135
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_106
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1112
+        width: 116
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_107
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1230
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1051
+        width: 116
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_109
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1046
+        width: 116
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_110
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1142
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_111
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1048
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_112
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1176
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_113
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1008
+        width: 115
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_114
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1146
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_115
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 999
+        width: 115
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_116
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1025
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_117
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_118
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1109
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_119
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 975
+        width: 114
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 897
+        width: 113
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 838
+        width: 117
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_122
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 908
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_123
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 942
+        width: 114
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_124
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 847
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_125
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 948
+        width: 113
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_126
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 844
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_127
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 945
+        width: 122
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_128
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 861
+        width: 126
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_129
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 955
+        width: 138
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_130
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 909
+        width: 163
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_131
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 953
+        width: 114
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_132
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 836
+        width: 124
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_133
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 955
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_134
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 804
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_135
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 810
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_136
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 816
+        width: 115
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_137
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 785
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_138
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 919
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_139
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 915
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_140
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 771
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_141
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 865
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_142
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 901
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_144
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 808
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_145
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 801
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_146
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 778
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_147
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 741
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_148
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 709
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_149
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 706
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_150
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 735
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_151
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 699
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_152
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 699
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_153
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 757
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_155
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 669
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_156
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 605
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_157
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 647
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_158
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 592
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_159
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 673
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_160
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 596
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_161
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 610
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_162
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 687
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_163
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 654
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_164
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 599
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_165
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 668
+        width: 135
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_166
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 584
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_167
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 599
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_169
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 566
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_170
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 552
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_171
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 550
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_172
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 522
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_173
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 479
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_174
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 571
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_175
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 507
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_176
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 528
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_177
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 530
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_178
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 586
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_179
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 575
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_180
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 551
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_181
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 503
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_182
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 555
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_183
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 528
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_184
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 440
+        width: 73
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_185
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 444
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_186
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 474
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_187
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 449
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_188
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 426
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_189
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 426
+        width: 111
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_190
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 445
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_191
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 421
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_192
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 473
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_193
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 468
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_194
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 455
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_195
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 462
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_196
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 445
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_197
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 494
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_198
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 419
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_199
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 480
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_201
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 327
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_202
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 387
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_203
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 437
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_204
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 377
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_205
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 367
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_206
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 387
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_207
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 394
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_208
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 386
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_209
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 388
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_210
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 367
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_212
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 294
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_213
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 291
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_214
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 349
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_215
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 296
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_216
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 271
+        width: 67
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_217
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 336
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_218
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 349
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_219
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 273
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_220
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 304
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_221
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 274
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_222
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 306
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_223
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 269
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_224
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 346
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_225
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 324
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_226
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 270
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_227
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 340
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_228
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 292
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_229
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 247
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_230
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 336
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_231
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 309
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_232
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 233
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_233
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 223
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_234
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 227
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_235
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 312
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_236
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 211
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_237
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 223
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_238
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 292
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_239
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 196
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_240
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 216
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_241
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 225
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_242
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 227
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_244
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 219
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_245
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 223
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_246
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 178
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_247
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 179
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_248
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 233
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_249
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 267
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_250
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 265
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_251
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 182
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_252
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 202
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_253
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 163
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_254
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 240
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_255
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 166
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_256
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 166
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_257
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 228
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_258
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 161
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_259
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 136
+        width: 55
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_260
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 208
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_261
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 232
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_262
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_263
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 207
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_264
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 120
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_265
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 199
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_266
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 156
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_267
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 190
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_268
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 216
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_269
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 208
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_270
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 211
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_271
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 173
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_272
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 172
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_274
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 198
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_275
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 204
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_276
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 186
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_277
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 182
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_278
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 185
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_279
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 166
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_280
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 176
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_281
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 185
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_282
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 170
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_283
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 149
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_284
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 167
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_285
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 113
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_286
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 186
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_287
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 168
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_288
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 177
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_289
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 185
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_290
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 171
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_291
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 181
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_292
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 178
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_293
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 140
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_294
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 69
+        width: 50
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_295
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 151
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_296
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 178
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_297
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 165
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_298
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 107
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_299
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 144
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_300
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 87
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_301
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 138
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_302
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 133
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_303
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 165
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_304
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 172
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_305
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_306
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 115
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_307
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 77
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_308
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 139
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_309
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 149
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_310
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 148
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_311
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 140
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_312
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 155
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_313
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 143
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_314
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 138
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_315
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 145
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_316
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 158
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_317
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 154
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_318
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 130
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_319
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 108
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_320
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 131
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_321
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 126
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_322
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 122
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_323
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 135
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_324
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 123
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_325
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 137
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_326
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 118
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_327
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 135
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_328
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 137
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_329
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 122
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_330
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 94
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_331
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 112
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_332
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 135
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_333
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 121
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_334
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 125
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_335
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 116
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_336
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 106
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_337
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 117
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_338
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 97
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_339
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 109
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_340
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_341
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 111
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_342
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 116
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_343
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 52
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_344
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 94
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_345
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 113
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_346
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 108
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_347
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 123
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_348
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_349
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 85
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_350
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 85
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_351
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 79
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_352
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 109
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_353
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 31
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_354
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 96
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_355
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 106
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_356
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 87
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_357
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 98
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_358
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 97
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_359
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 110
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_360
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 93
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_361
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_362
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 62
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_363
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 92
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_364
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 74
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_365
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 89
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_366
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 71
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_367
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 67
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_368
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 96
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_369
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 82
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_370
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 81
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_371
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 61
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_372
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 81
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_373
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 24
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_374
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 83
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_375
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 90
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_376
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 90
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_377
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_378
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 70
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_379
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 61
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_380
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 69
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_381
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 86
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_382
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 50
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_383
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_384
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_385
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 66
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_386
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 49
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_387
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 68
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_388
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 59
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_389
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 76
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_390
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_391
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 78
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_392
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 62
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_393
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 18
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_394
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 59
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_395
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 52
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_396
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 43
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_397
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 72
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_398
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 50
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_399
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 66
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_400
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 44
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_401
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 10
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_402
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_403
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 55
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_404
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 51
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_405
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_406
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 26
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_407
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 52
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_408
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 54
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_409
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 26
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_410
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 50
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_411
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 52
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_412
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 37
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_413
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 7
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_414
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 50
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_415
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 37
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_416
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 51
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_417
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 36
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_418
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 59
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_419
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 55
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_420
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 48
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_421
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 38
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_422
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_423
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 45
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_424
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_425
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 19
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_426
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 7
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_427
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 42
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_428
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 9
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_429
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 42
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_430
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 32
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_431
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 18
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_432
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 37
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_433
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 15
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_434
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_435
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_436
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_437
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 24
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_438
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 26
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_439
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 30
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_440
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 25
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_441
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 22
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_442
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 4
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_443
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 18
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_444
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 26
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_445
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 35
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_446
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 25
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_447
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 15
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_448
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 16
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_449
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 4
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_450
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_451
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 13
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_452
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 4
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_453
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_454
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 21
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_455
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 13
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_456
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 17
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_457
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 18
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_458
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 9
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_tower_tex_0_459
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 0
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
